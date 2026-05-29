@@ -30,6 +30,7 @@ rsync -avc --delete --exclude=".*" ~/ /tmp/backup/
 ```
 
 ![Скриншот Latest Data](img/komanda.png)
+
 ![Скриншот Latest Data](img/rsync_result.png)
 
 
