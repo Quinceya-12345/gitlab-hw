@@ -10,6 +10,7 @@
 
 ### Задание 3. Logstash
 
+ ![Логи Nginx в интерфейсе Kibana](img/logstash_nginx.png)
 
 
 ### Задание 4. Filebeat.
