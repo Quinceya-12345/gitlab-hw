@@ -15,3 +15,7 @@
 ### Задание 4. Filebeat.
  
  ![Логи Nginx, отправленные через Filebeat](img/filebeat_nginx.png)
+
+### Итого
+
+ ![Список индексов](img/final_indices.png)
