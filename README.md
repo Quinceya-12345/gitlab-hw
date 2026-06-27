@@ -12,6 +12,6 @@
 
  ![Логи Nginx в интерфейсе Kibana](img/logstash_nginx.png)
 
-
 ### Задание 4. Filebeat.
  
+ ![Логи Nginx, отправленные через Filebeat](img/filebeat_nginx.png)
