@@ -2,11 +2,11 @@
 
 ### Задание 1. Elasticsearch
 
- ![Статус кластера Elasticsearch](img/elasticsearch.png)
+ ![Статус кластера Elasticsearch](img/elastic_search.png)
 
 ### Задание 2. Kibana
 
- ![Статус кластера Elasticsearch](img/kibana_console.png)
+ ![Интерфейс Kibana Dev Tools](img/kibana_console.png)
 
 ### Задание 3. Logstash
 
