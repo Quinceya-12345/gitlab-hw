@@ -148,3 +148,4 @@ CREATE TABLE orders (
     
     PRIMARY KEY (order_id)
 );
+
