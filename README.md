@@ -6,16 +6,16 @@
 
 В результате сканирования виртуальной машины Metasploitable (IP: 192.168.0.106) с помощью утилиты nmap -sV было обнаружено множество открытых портов и запущенных сетевых служб. 
 Вот основные из них с указанием точных версий:
-Порт 21/tcp: FTP-сервер (служба: vsftpd 2.3.4) [49757]
-Порт 22/tcp: SSH для удаленного доступа (служба: OpenSSH 4.7p1)
-Порт 23/tcp: Telnet (служба: Linux telnetd)
-Порт 25/tcp: Почтовый сервер SMTP (служба: Postfix smtpd)
-Порт 80/tcp: Веб-сервер HTTP (служба: Apache httpd 2.2.8)
-Порт 445/tcp: Сетевой обмен файлами SMB (служба: Samba smbd 3.X - 4.X) [16320]
-Порт 1524/tcp: Служба bindshell (прямой доступ к Root-оболочке Metasploitable)
-Порт 3306/tcp: База данных MySQL 5.0.51a-3ubuntu5
-Порт 6667/tcp: IRC-чат (служба: UnrealIRCd) [13853]
-Порт 8180/tcp: Веб-контейнер Apache Tomcat/Coyote 1.1
+* Порт 21/tcp: FTP-сервер (служба: vsftpd 2.3.4) [49757]
+* Порт 22/tcp: SSH для удаленного доступа (служба: OpenSSH 4.7p1)
+* Порт 23/tcp: Telnet (служба: Linux telnetd)
+* Порт 25/tcp: Почтовый сервер SMTP (служба: Postfix smtpd)
+* Порт 80/tcp: Веб-сервер HTTP (служба: Apache httpd 2.2.8)
+* Порт 445/tcp: Сетевой обмен файлами SMB (служба: Samba smbd 3.X - 4.X) [16320]
+* Порт 1524/tcp: Служба bindshell (прямой доступ к Root-оболочке Metasploitable)
+* Порт 3306/tcp: База данных MySQL 5.0.51a-3ubuntu5
+* Порт 6667/tcp: IRC-чат (служба: UnrealIRCd) [13853]
+* Порт 8180/tcp: Веб-контейнер Apache Tomcat/Coyote 1.1
 
 ![Ключевые службы](img/nmap_1.png)
 
